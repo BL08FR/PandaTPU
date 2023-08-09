@@ -1,4 +1,4 @@
 # PandaTPU
 
 Same AIM than previous TPU but with Panda accuracy.
-Thingiverse :
+Thingiverse : https://www.thingiverse.com/thing:6095115
