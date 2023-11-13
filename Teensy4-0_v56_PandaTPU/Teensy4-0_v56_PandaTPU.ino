@@ -491,7 +491,7 @@ void loop()
 		}
 	}
 
-	if (Autosteer_running) autosteerLoop();
+	//if (Autosteer_running) autosteerLoop();
 
 
 	//if (gpsCurrentTime - lastGyroTime >= GYRO_LOOP_TIME)
